@@ -1,5 +1,23 @@
 # Glassdoor Job Scraper
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+
+![Python](https://img.shields.io/badge/Python-3.7%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pathlib](https://img.shields.io/badge/Pathlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Time](https://img.shields.io/badge/Time-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OS](https://img.shields.io/badge/OS-Standard%20Library-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Groq](https://img.shields.io/badge/Groq-LLM-FF6600?style=for-the-badge)
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![SeleniumBase](https://img.shields.io/badge/SeleniumBase-00A98F?style=for-the-badge&logo=selenium&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+![Glassdoor](https://img.shields.io/badge/Glassdoor-Scraper-00A98F?style=for-the-badge)
+
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ## Overview
 
 This project is a Python application designed to automatically scrape and analyze internship job listings from Glassdoor based on specific criteria. It filters job opportunities according to the user's qualifications and interests, and bookmarks suitable job listings.
